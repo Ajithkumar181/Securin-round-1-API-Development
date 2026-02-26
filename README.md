@@ -187,9 +187,6 @@ npm start
 
 ---
 
-# Evaluator Impact Statement
 
-This project demonstrates full-stack integration, REST API design, layered backend architecture, dynamic querying, pagination strategies, JSON handling, and frontend state management.
 
----
 
